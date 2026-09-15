@@ -4,232 +4,462 @@
   "redirects": [
     {
       "source": "/start-up-und-strategie-beratung",
-      "destination": "/de/strategie",
+      "destination": "/de/strategie/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/",
+      "destination": "/de/strategie/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz",
-      "destination": "/de/prozesse",
+      "destination": "/de/prozesse/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/",
+      "destination": "/de/prozesse/",
       "permanent": true
     },
     {
       "source": "/business-intelligence-und-analytik",
-      "destination": "/de/analytics",
+      "destination": "/de/analytics/",
+      "permanent": true
+    },
+    {
+      "source": "/business-intelligence-und-analytik/",
+      "destination": "/de/analytics/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service",
-      "destination": "/de/vertrieb-service",
+      "destination": "/de/vertrieb-service/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/",
+      "destination": "/de/vertrieb-service/",
       "permanent": true
     },
     {
       "source": "/de-executive-development",
-      "destination": "/de/executive",
+      "destination": "/de/executive/",
+      "permanent": true
+    },
+    {
+      "source": "/de-executive-development/",
+      "destination": "/de/executive/",
       "permanent": true
     },
     {
       "source": "/die-5-saeulen-eines-erfolgreichen-unternehmens",
-      "destination": "/de/5-saeulen",
+      "destination": "/de/5-saeulen/",
+      "permanent": true
+    },
+    {
+      "source": "/die-5-saeulen-eines-erfolgreichen-unternehmens/",
+      "destination": "/de/5-saeulen/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/wachstumsstrategie-kmu",
-      "destination": "/de/strategie/wachstumsstrategie-kmu",
+      "destination": "/de/strategie/wachstumsstrategie-kmu/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/wachstumsstrategie-kmu/",
+      "destination": "/de/strategie/wachstumsstrategie-kmu/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/strategieberatung-kmu",
-      "destination": "/de/strategie/strategieberatung-kmu",
+      "destination": "/de/strategie/strategieberatung-kmu/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/strategieberatung-kmu/",
+      "destination": "/de/strategie/strategieberatung-kmu/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/unternehmensstrategie-kmu-beispiel",
-      "destination": "/de/strategie/unternehmensstrategie-beispiel",
+      "destination": "/de/strategie/unternehmensstrategie-beispiel/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/unternehmensstrategie-kmu-beispiel/",
+      "destination": "/de/strategie/unternehmensstrategie-beispiel/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/wie-finanziere-ich-mein-start-up",
-      "destination": "/de/strategie/startup-finanzierung",
+      "destination": "/de/strategie/startup-finanzierung/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/wie-finanziere-ich-mein-start-up/",
+      "destination": "/de/strategie/startup-finanzierung/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/kmu-krisenberatung",
-      "destination": "/de/strategie/kmu-krisenberatung",
+      "destination": "/de/strategie/kmu-krisenberatung/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/kmu-krisenberatung/",
+      "destination": "/de/strategie/kmu-krisenberatung/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/wie-starte-ich-meine-firma-richtig",
-      "destination": "/de/strategie/firma-richtig-starten",
+      "destination": "/de/strategie/firma-richtig-starten/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/wie-starte-ich-meine-firma-richtig/",
+      "destination": "/de/strategie/firma-richtig-starten/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/kmu-standort-deutschland-2026",
-      "destination": "/de/strategie/standort-deutschland-2026",
+      "destination": "/de/strategie/standort-deutschland-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/kmu-standort-deutschland-2026/",
+      "destination": "/de/strategie/standort-deutschland-2026/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/entering-the-german-market",
-      "destination": "/de/strategie/entering-the-german-market",
+      "destination": "/de/strategie/entering-the-german-market/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/entering-the-german-market/",
+      "destination": "/de/strategie/entering-the-german-market/",
       "permanent": true
     },
     {
       "source": "/start-up-und-strategie-beratung/germaniya-dlya-predprinimatelej",
-      "destination": "/ru/strategiya/germaniya-dlya-predprinimatelej",
+      "destination": "/ru/strategiya/germaniya-dlya-predprinimatelej/",
+      "permanent": true
+    },
+    {
+      "source": "/start-up-und-strategie-beratung/germaniya-dlya-predprinimatelej/",
+      "destination": "/ru/strategiya/germaniya-dlya-predprinimatelej/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz/talente-und-mitarbeiter-anziehen",
-      "destination": "/de/prozesse/talente-anziehen",
+      "destination": "/de/prozesse/talente-anziehen/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/talente-und-mitarbeiter-anziehen/",
+      "destination": "/de/prozesse/talente-anziehen/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz/gewinnoptimierung-rentabilitaet-kmu",
-      "destination": "/de/prozesse/gewinnoptimierung",
+      "destination": "/de/prozesse/gewinnoptimierung/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/gewinnoptimierung-rentabilitaet-kmu/",
+      "destination": "/de/prozesse/gewinnoptimierung/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz/unternehmenssteuerung-prozesse-kmu",
-      "destination": "/de/prozesse/unternehmenssteuerung",
+      "destination": "/de/prozesse/unternehmenssteuerung/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/unternehmenssteuerung-prozesse-kmu/",
+      "destination": "/de/prozesse/unternehmenssteuerung/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz/schluesselpositionen-besetzen-kmu",
-      "destination": "/de/prozesse/schluesselpositionen",
+      "destination": "/de/prozesse/schluesselpositionen/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/schluesselpositionen-besetzen-kmu/",
+      "destination": "/de/prozesse/schluesselpositionen/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz/liquiditaet-sichern-kmu",
-      "destination": "/de/prozesse/liquiditaet-sichern",
+      "destination": "/de/prozesse/liquiditaet-sichern/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/liquiditaet-sichern-kmu/",
+      "destination": "/de/prozesse/liquiditaet-sichern/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz/masterprozess-unternehmen-aufbauen",
-      "destination": "/de/prozesse/masterprozess",
+      "destination": "/de/prozesse/masterprozess/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/masterprozess-unternehmen-aufbauen/",
+      "destination": "/de/prozesse/masterprozess/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz/headhunting-kmu",
-      "destination": "/de/prozesse/headhunting-kmu",
+      "destination": "/de/prozesse/headhunting-kmu/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/headhunting-kmu/",
+      "destination": "/de/prozesse/headhunting-kmu/",
       "permanent": true
     },
     {
       "source": "/prozessoptimierung-und-operative-exzellenz/interim-manager-kmu",
-      "destination": "/de/prozesse/interim-manager",
+      "destination": "/de/prozesse/interim-manager/",
+      "permanent": true
+    },
+    {
+      "source": "/prozessoptimierung-und-operative-exzellenz/interim-manager-kmu/",
+      "destination": "/de/prozesse/interim-manager/",
       "permanent": true
     },
     {
       "source": "/business-intelligence-und-analytik/kdd-wissensmanagement-mittelstand",
-      "destination": "/de/analytics/kdd-wissensmanagement",
+      "destination": "/de/analytics/kdd-wissensmanagement/",
+      "permanent": true
+    },
+    {
+      "source": "/business-intelligence-und-analytik/kdd-wissensmanagement-mittelstand/",
+      "destination": "/de/analytics/kdd-wissensmanagement/",
       "permanent": true
     },
     {
       "source": "/business-intelligence-und-analytik/b2b-kunden-recherche-marktanalyse",
-      "destination": "/de/analytics/b2b-recherche",
+      "destination": "/de/analytics/b2b-recherche/",
+      "permanent": true
+    },
+    {
+      "source": "/business-intelligence-und-analytik/b2b-kunden-recherche-marktanalyse/",
+      "destination": "/de/analytics/b2b-recherche/",
       "permanent": true
     },
     {
       "source": "/business-intelligence-und-analytik/kuenstliche-intelligenz-ki-fuer-kmu",
-      "destination": "/de/analytics/ki-fuer-kmu",
+      "destination": "/de/analytics/ki-fuer-kmu/",
+      "permanent": true
+    },
+    {
+      "source": "/business-intelligence-und-analytik/kuenstliche-intelligenz-ki-fuer-kmu/",
+      "destination": "/de/analytics/ki-fuer-kmu/",
       "permanent": true
     },
     {
       "source": "/business-intelligence-und-analytik/datenbasierte-unternehmensentscheidungen-kmu",
-      "destination": "/de/analytics/datenbasierte-entscheidungen",
+      "destination": "/de/analytics/datenbasierte-entscheidungen/",
+      "permanent": true
+    },
+    {
+      "source": "/business-intelligence-und-analytik/datenbasierte-unternehmensentscheidungen-kmu/",
+      "destination": "/de/analytics/datenbasierte-entscheidungen/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/brauche-ich-eine-website-fuer-mein-geschaeft",
-      "destination": "/de/vertrieb-service/brauche-ich-website",
+      "destination": "/de/vertrieb-service/brauche-ich-website/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/brauche-ich-eine-website-fuer-mein-geschaeft/",
+      "destination": "/de/vertrieb-service/brauche-ich-website/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/premium-webdesign",
-      "destination": "/de/vertrieb-service/premium-webdesign",
+      "destination": "/de/vertrieb-service/premium-webdesign/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/premium-webdesign/",
+      "destination": "/de/vertrieb-service/premium-webdesign/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/online-sichtbarkeit-fuer-kmu",
-      "destination": "/de/vertrieb-service/online-sichtbarkeit",
+      "destination": "/de/vertrieb-service/online-sichtbarkeit/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/online-sichtbarkeit-fuer-kmu/",
+      "destination": "/de/vertrieb-service/online-sichtbarkeit/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/online-marketing-kmu",
-      "destination": "/de/vertrieb-service/online-marketing",
+      "destination": "/de/vertrieb-service/online-marketing/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/online-marketing-kmu/",
+      "destination": "/de/vertrieb-service/online-marketing/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/vertriebsaufbau-und-neukundengewinnung-kmu",
-      "destination": "/de/vertrieb-service/vertriebsaufbau",
+      "destination": "/de/vertrieb-service/vertriebsaufbau/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/vertriebsaufbau-und-neukundengewinnung-kmu/",
+      "destination": "/de/vertrieb-service/vertriebsaufbau/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/umsatz-steigern-kmu",
-      "destination": "/de/vertrieb-service/umsatz-steigern",
+      "destination": "/de/vertrieb-service/umsatz-steigern/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/umsatz-steigern-kmu/",
+      "destination": "/de/vertrieb-service/umsatz-steigern/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/warum-verlieren-kmu-kunden-und-bewerber",
-      "destination": "/de/vertrieb-service/kunden-bewerber-verlieren",
+      "destination": "/de/vertrieb-service/kunden-bewerber-verlieren/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/warum-verlieren-kmu-kunden-und-bewerber/",
+      "destination": "/de/vertrieb-service/kunden-bewerber-verlieren/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/website-fuer-beauty-kosmetik-pflege",
-      "destination": "/de/vertrieb-service/website-beauty",
+      "destination": "/de/vertrieb-service/website-beauty/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/website-fuer-beauty-kosmetik-pflege/",
+      "destination": "/de/vertrieb-service/website-beauty/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/website-fuer-maschinenbau-cnc-lohnfertigung",
-      "destination": "/de/vertrieb-service/website-maschinenbau",
+      "destination": "/de/vertrieb-service/website-maschinenbau/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/website-fuer-maschinenbau-cnc-lohnfertigung/",
+      "destination": "/de/vertrieb-service/website-maschinenbau/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/website-fuer-gastronomie-restaurant-imbiss",
-      "destination": "/de/vertrieb-service/website-gastro",
+      "destination": "/de/vertrieb-service/website-gastro/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/website-fuer-gastronomie-restaurant-imbiss/",
+      "destination": "/de/vertrieb-service/website-gastro/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/website-fuer-handwerker",
-      "destination": "/de/vertrieb-service/website-handwerk",
+      "destination": "/de/vertrieb-service/website-handwerk/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/website-fuer-handwerker/",
+      "destination": "/de/vertrieb-service/website-handwerk/",
       "permanent": true
     },
     {
       "source": "/de-vertrieb-und-service/firma-bekannt-machen-lokal",
-      "destination": "/de/vertrieb-service/lokal-bekannt",
+      "destination": "/de/vertrieb-service/lokal-bekannt/",
+      "permanent": true
+    },
+    {
+      "source": "/de-vertrieb-und-service/firma-bekannt-machen-lokal/",
+      "destination": "/de/vertrieb-service/lokal-bekannt/",
       "permanent": true
     },
     {
       "source": "/de-executive-development/biases-kognitive-verzerrungen-im-kmu-kontext",
-      "destination": "/de/executive/biases-kmu",
+      "destination": "/de/executive/biases-kmu/",
+      "permanent": true
+    },
+    {
+      "source": "/de-executive-development/biases-kognitive-verzerrungen-im-kmu-kontext/",
+      "destination": "/de/executive/biases-kmu/",
       "permanent": true
     },
     {
       "source": "/de-executive-development/haeufigste-fehler-der-kmu-chefs",
-      "destination": "/de/executive/fehler-kmu-chefs",
+      "destination": "/de/executive/fehler-kmu-chefs/",
+      "permanent": true
+    },
+    {
+      "source": "/de-executive-development/haeufigste-fehler-der-kmu-chefs/",
+      "destination": "/de/executive/fehler-kmu-chefs/",
       "permanent": true
     },
     {
       "source": "/de-executive-development/pareto-prinzip-80-20-kmu",
-      "destination": "/de/executive/pareto-prinzip",
+      "destination": "/de/executive/pareto-prinzip/",
+      "permanent": true
+    },
+    {
+      "source": "/de-executive-development/pareto-prinzip-80-20-kmu/",
+      "destination": "/de/executive/pareto-prinzip/",
       "permanent": true
     },
     {
       "source": "/de-executive-development/mehr-aus-ihrem-unternehmen-holen",
-      "destination": "/de/executive/mehr-herausholen",
+      "destination": "/de/executive/mehr-herausholen/",
+      "permanent": true
+    },
+    {
+      "source": "/de-executive-development/mehr-aus-ihrem-unternehmen-holen/",
+      "destination": "/de/executive/mehr-herausholen/",
       "permanent": true
     },
     {
       "source": "/de-executive-development/saprringspartner-fuer-unternehmer",
-      "destination": "/de/executive/sparringspartner",
+      "destination": "/de/executive/sparringspartner/",
+      "permanent": true
+    },
+    {
+      "source": "/de-executive-development/saprringspartner-fuer-unternehmer/",
+      "destination": "/de/executive/sparringspartner/",
       "permanent": true
     },
     {
       "source": "/pain-wall",
-      "destination": "/de/5-saeulen",
+      "destination": "/de/5-saeulen/",
+      "permanent": true
+    },
+    {
+      "source": "/pain-wall/",
+      "destination": "/de/5-saeulen/",
       "permanent": true
     },
     {
       "source": "/pain-wall/kmu-herausforderungen-buerokratie-fachkraeftemangel-energie",
-      "destination": "/de/5-saeulen",
+      "destination": "/de/5-saeulen/",
+      "permanent": true
+    },
+    {
+      "source": "/pain-wall/kmu-herausforderungen-buerokratie-fachkraeftemangel-energie/",
+      "destination": "/de/5-saeulen/",
       "permanent": true
     }
   ]
